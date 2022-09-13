@@ -1,0 +1,8 @@
+-	Account Type: 'DEBIT'
+Name:Teatst
+ID: 2020-05-1
+Date of Birth: 01-01-1999
+Nominee:abdullah
+Balance:500.0
+Current Balance: 700.0
+Current Balance: 400.0
